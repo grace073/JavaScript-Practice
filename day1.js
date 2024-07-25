@@ -77,8 +77,9 @@ console.log(a);
 //prototype chain:
 //arr --> Array.prototype --> Object.prototype --> null
 
-
-
+//'let' vs 'var': scope
+//Variables declared by let are only available inside the block where they are defined. 
+//Variables declared by var are available throughout the function in which they are declared.
 
 
 
